@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\urooj\source\repos\TransportationBookingsystem\TransportationBookingSystem\FlightBookingForm.h(227,33): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\urooj\source\repos\TransportationBookingsystem\TransportationBookingSystem\TrainBookingForm.h(229,33): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  BookingOptionsform.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  TransportationBookingSystem.vcxproj -> C:\Users\urooj\source\repos\TransportationBookingsystem\x64\Debug\TransportationBookingSystem.exe
